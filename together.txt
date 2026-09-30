@@ -1,3 +1,7 @@
-This is for group work (Ebru)
-This is the line Philip was going to add if he accepted. (Ebru)
-I need to update this page with latest changes. 30/09/2026 (Ebru)
+My capstone idea is called "What makes project prosper or fail?" (Ebru Tollinton)
+I will analyse my company's completed projects database and test if I can detect enough patterns between successful and failing projects. The goal is finding a new benchmarking tool for the live projects. (Ebru Tollinton)
+I will pseudonymise the sensitive information, using Python, SQL and Tableau and  
+This is for group work (Ebru Tollinton)
+This is the line Philip was going to add if he accepted. (Ebru Tollinton)
+I need to update this page with latest changes. 30/09/2026 (Ebru Tollinton)
+Another idea to add here. Need revise the above version. (Ebru Tollinton)

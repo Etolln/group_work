@@ -3,5 +3,5 @@ I will analyse my company's completed projects database and test if I can detect
 I will pseudonymise the sensitive information, using Python, SQL and Tableau and  
 This is for group work (Ebru Tollinton)
 This is the line Philip was going to add if he accepted. (Ebru Tollinton)
-I need to update this page with latest changes. 30/09/2026 (Ebru Tollinton)
+I updated the SQL view with the latest changes. 30/09/2026 (Ebru Tollinton)
 Another idea to add here. Need revise the above version. (Ebru Tollinton)

@@ -1,7 +1,7 @@
 My capstone idea is called "What makes project prosper or fail?" (Ebru Tollinton)
 I will analyse my company's completed projects database and test if I can detect enough patterns between successful and failing projects. The goal is finding a new benchmarking tool for the live projects. (Ebru Tollinton)
 I will pseudonymise the sensitive information, using Python, SQL and Tableau and  
-This was for group work but Philip was busy to check the link. (Ebru Tollinton)
-This is the line Philip was going to add if he accepted. (Ebru Tollinton)
+This was meant to be for group work but my contributor was busy to check the link. (Ebru Tollinton)
+This was the line for group contributor was going to add if he could. (Ebru Tollinton)
 I updated the SQL view with the latest changes. 30/09/2026 (Ebru Tollinton)
 Another idea to add a violin graph. Need revise the previous version. (Ebru Tollinton)

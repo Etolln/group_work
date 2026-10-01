@@ -5,3 +5,5 @@ This was meant to be for group work but my contributor was busy to check the lin
 This was the line for group contributor was going to add if he could. (Ebru Tollinton)
 I updated the SQL view with the latest changes. 30/09/2026 (Ebru Tollinton)
 Another idea to add a violin graph. Need revise the previous version. (Ebru Tollinton)
+
+Unfortunately, I am not on the course, I am Ebru's Husband, Philip Tollinton.
